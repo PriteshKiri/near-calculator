@@ -1,0 +1,15 @@
+{
+  "name": "near-calculator",
+  "version": "1.0.0",
+  "description": "This is a simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp",
+    "build": "asb"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
