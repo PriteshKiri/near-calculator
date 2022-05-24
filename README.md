@@ -23,15 +23,17 @@ If you need to install near-cli:
 npm install near-cli -g
 
 ## **File system**
-
-src
-├── assembly                                  
-    ├── __tests__                  <-- unit test  
-    │   ├── as-pect.d.ts
-    │   └── example.spec.ts                               
-    ├── index.ts                   <-- Calculator contract
-    └── tsconfig.json
+```bash
+├── assembly                        
+    ├── __tests__           <-- unit test
+    │   ├── as-pect.d.ts
+    │   └── example.spec.ts
+    |
+    ├── index.ts            <-- Calculator contract
+    └── tsconfig.json
     |__ as_types.d.ts
+     
+ ```
 
 ## **To Build**
 
