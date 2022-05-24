@@ -29,3 +29,7 @@ Run the command : yarn build
 **To Test**
 
 Run the command : yarn test
+
+**To Deploy**
+
+Run the command : near deploy --accountId=myaccount.testnet --wasmFile=build/release/${your file name}.wasm
