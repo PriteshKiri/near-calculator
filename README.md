@@ -1,4 +1,4 @@
-**Calculator Example in Assemblyscript**
+# **Calculator Example in Assemblyscript**
 
 **Description**
 
