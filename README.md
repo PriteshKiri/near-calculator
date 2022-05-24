@@ -33,4 +33,5 @@ Run the command : yarn test
 ## **To Deploy**
 
 Run the command : near deploy --accountId=youraccount.testnet --wasmFile=build/release/${your file name}.wasm
+
 For using dev account : near dev-deploy ./build/release/${your file name}.wasm
