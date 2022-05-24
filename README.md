@@ -32,4 +32,4 @@ Run the command : yarn test
 
 **To Deploy**
 
-Run the command : near deploy --accountId=myaccount.testnet --wasmFile=build/release/${your file name}.wasm
+Run the command : near deploy --accountId=youraccount.testnet --wasmFile=build/release/${your file name}.wasm
